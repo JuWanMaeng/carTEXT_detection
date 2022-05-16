@@ -8,3 +8,7 @@
 
 2. 번호판 부분 즉, 글씨 부분만 따로 추출한다.
 ![image](https://user-images.githubusercontent.com/63851856/168505027-85a58a37-e560-4df1-bb20-357654d628c0.png)
+
+
+3. 결과
+![image](https://user-images.githubusercontent.com/63851856/168505113-21d02689-e0a6-4f4c-aa4b-d372772d6ee3.png)
